@@ -1,0 +1,19 @@
+# Visual Studio temporary files
+**/.vs/
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Angular and Node.js generated files
+**/node_modules/
+**/dist/
+**/coverage/
+
+# User-specific files
+*.suo
+
+# Environment secrets
+.env
+.env.*
+!.env.example
